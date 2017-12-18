@@ -1,0 +1,1 @@
+{"version":3,"file":"courses-router-config.js","sourceRoot":"","sources":["courses-router-config.ts"],"names":[],"mappings":";AAGA,2DAA8C;AAGjC,QAAA,mBAAmB,GAAG;IAC/B;QACI,IAAI,EAAE,SAAS;QACf,YAAY,EAAE,yCAAyC;KAC1D;IACD;QACI,IAAI,EAAE,UAAU;QAChB,SAAS,EAAE,6BAAQ;QACnB,MAAM,EAAE,UAAU;KACrB;CACJ,CAAC"}
